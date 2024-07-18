@@ -1,0 +1,1 @@
+Simple JavaScript slideshow for images with automatic cycling, zoom-in animation, navigation buttons, and slide content customization.
